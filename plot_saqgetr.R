@@ -1,5 +1,5 @@
 ## this script downloads the details of all monitoring sites in the saqgetr 
-## database and plots them in species category
+## database and plots them in species category as leaflet maps that open in a browser
 
 library(leaflet)
 library(sf)
