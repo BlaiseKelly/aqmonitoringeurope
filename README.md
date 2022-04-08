@@ -1,7 +1,7 @@
 # aqmonitoringeurope
-Plotting the air quality monitoring sites accessible through saqgetr
+Plotting the air quality monitoring sites accessible through saqgetr.
 
-This script generates interactive html files that show the locations of monitoring sites split by:
+The script plot_saqgetr.R generates interactive html files that show the locations of monitoring sites split by:
 
  - Black Carbon  
  - Particulate Matter (PM)  
